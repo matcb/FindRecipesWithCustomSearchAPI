@@ -1,0 +1,22 @@
+h1
+{
+    color:red;
+    font-size: 2rem;
+    font-family:Tahoma;
+    display:flex;
+    justify-content: center;
+}
+body
+{
+    background-color: #eee
+
+
+}
+
+
+.catalogo
+{
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+}
